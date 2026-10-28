@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/prometheus-bearer-redirect">prometheus-bearer-redirect</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/prometheus-bearer-redirect"><strong>https://abraxaslabs.tech/research/prometheus-bearer-redirect</strong></a>
+</p>
+
 
 # prometheus-bearer-redirect
 
